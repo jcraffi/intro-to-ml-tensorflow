@@ -1,6 +1,3 @@
-# Large files
-**/[!.]*/**/*[!.][!g][!i][!t]*
-
 # Ignore CSVa Files
 *.csv
 

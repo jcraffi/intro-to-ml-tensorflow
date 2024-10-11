@@ -1,0 +1,5 @@
+Label: cautleya spicata, Probability: 56.73%
+Label: cape flower, Probability: 4.16%
+Label: red ginger, Probability: 3.69%
+Label: wallflower, Probability: 3.63%
+Label: siam tulip, Probability: 3.54%
